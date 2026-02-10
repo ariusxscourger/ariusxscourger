@@ -1,16 +1,18 @@
 <div align="center">
-  
-# 👋 Hi, I'm Muhammad Saqib
 
-### CEO & Founder @ Arius TechWorks | Software Engineer | Open Source Contributor
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Saqib;CEO+%26+Founder+%40+Arius+TechWorks;Software+Engineer+%7C+Open+Source+Contributor;Building+Enterprise+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-muhammadsaqibportfolio.vercel.app-blue?style=for-the-badge&logo=vercel)](https://muhammadsaqibportfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--saqib--dev-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-saqib-dev/)
 [![Email](https://img.shields.io/badge/Email-saqibnaeem2001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saqibnaeem2001@gmail.com)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## 🚀 About Me
 
@@ -25,6 +27,8 @@ I'm a **Software Engineer** and **CEO & Founder** of [Arius TechWorks](http://ar
 - 💡 Passionate about building **enterprise-grade applications** that solve complex business challenges
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## 💼 Professional Highlights
 
@@ -59,6 +63,8 @@ const muhammadSaqib = {
 ```
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## 🛠️ Tech Stack
 
@@ -99,6 +105,10 @@ const muhammadSaqib = {
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+</div>
 
 ---
 
@@ -143,6 +153,8 @@ Professional law firm website with practice areas, attorney profiles, contact fo
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com/?user=ariusxscourger&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </a>
@@ -150,6 +162,8 @@ Professional law firm website with practice areas, attorney profiles, contact fo
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## 🎓 Certifications
 
@@ -164,6 +178,8 @@ Professional law firm website with practice areas, attorney profiles, contact fo
 - 🏅 **Applied Data Science Capstone** - IBM via Coursera
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## 💼 Work Experience
 
@@ -201,6 +217,8 @@ Contributed to institutional trading platform serving JPMorgan Chase financial p
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 ## 📫 Let's Connect
 
 <div align="center">
@@ -217,10 +235,14 @@ Contributed to institutional trading platform serving JPMorgan Chase financial p
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+
 ### 💡 "Transforming complex business challenges into elegant technical solutions"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ariusxscourger&color=blueviolet&style=for-the-badge)
 
 ⭐️ From [ariusxscourger](https://github.com/ariusxscourger) | Software Engineer & CEO @ [Arius TechWorks](http://ariustech.works/)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 </div>
