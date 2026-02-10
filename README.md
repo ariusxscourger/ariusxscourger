@@ -102,7 +102,7 @@ const muhammadSaqib = {
 
 ---
 
-## 🏆 Featured Projects
+<!-- ## 🏆 Featured Projects
 
 ### 🏢 [Arius Portfolio Live](https://github.com/ariusxscourger) - Portfolio Management System
 Enterprise-grade portfolio management with real-time NAV computation, compliance screening (ESG criteria), order management, and risk analytics dashboard.
@@ -137,17 +137,20 @@ Professional law firm website with practice areas, attorney profiles, contact fo
 
 **Tech Stack:** React • TypeScript • Vite • EmailJS • React Router
 
----
+--- -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ariusxscourger&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<a href="https://github.com/ariusxscourger">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ariusxscourger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ariusxscourger&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariusxscourger&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ariusxscourger&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=ariusxscourger&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
 
 </div>
 
