@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Muhammad Saqib
 
-### CEO & Founder @ ARIUS TECH WORKS | Full Stack Engineer | Enterprise Solutions Specialist
+### CEO & Founder @ Arius TechWorks | Software Engineer | Open Source Contributor
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-muhammadsaqibportfolio.vercel.app-blue?style=for-the-badge&logo=vercel)](https://muhammadsaqibportfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--saqib--dev-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-saqib-dev/)
@@ -14,7 +14,9 @@
 
 ## 🚀 About Me
 
-I'm a **CEO & Founder** of [ARIUS TECH WORKS](https://ariustechworks.com), leading a technology consultancy that specializes in **enterprise software development** and **IT infrastructure solutions**. With **4+ years of full-stack engineering experience**, I architect scalable solutions for government, finance, retail, and education sectors.
+I'm a **Software Engineer** and **CEO & Founder** of [Arius TechWorks](http://ariustech.works/), leading a technology consultancy that specializes in **enterprise software development** and **IT infrastructure solutions**. With **4+ years of full-stack engineering experience**, I architect scalable solutions for government, finance, retail, and education sectors.
+
+🌟 **Open Source Contributor** passionate about building in public and contributing to the developer community.
 
 - 🏢 **Authorized Technology Supplier** for National University of Defence & Printing Corporation of Pakistan
 - 💼 Previously engineered **mission-critical fintech solutions** at **JPMorgan Chase** (via GOPYTHON SOFTWARE)
@@ -28,12 +30,14 @@ I'm a **CEO & Founder** of [ARIUS TECH WORKS](https://ariustechworks.com), leadi
 
 ```typescript
 const muhammadSaqib = {
-  role: "CEO & Full Stack Engineer",
-  company: "ARIUS TECH WORKS",
+  role: "Software Engineer & CEO",
+  company: "Arius TechWorks",
+  companyURL: "http://ariustech.works/",
   experience: "4+ years",
   
   currentFocus: [
     "Enterprise Software Development",
+    "Open Source Contributions",
     "Government IT Procurement",
     "Fintech Solutions",
     "Team Leadership & Architecture"
@@ -165,8 +169,10 @@ Professional law firm website with practice areas, attorney profiles, contact fo
 
 ## 💼 Work Experience
 
-### 🏢 CEO & Founder @ ARIUS TECH WORKS
+### 🏢 CEO & Founder @ Arius TechWorks
 *Aug 2025 - Present | Islamabad, Pakistan*
+
+🌐 **Website:** [ariustech.works](http://ariustech.works/)
 
 Leading technology consultancy specializing in enterprise software development and government IT procurement.
 
@@ -217,6 +223,6 @@ Contributed to institutional trading platform serving JPMorgan Chase financial p
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ariusxscourger&color=blueviolet&style=for-the-badge)
 
-⭐️ From [ariusxscourger](https://github.com/ariusxscourger) | CEO @ ARIUS TECH WORKS
+⭐️ From [ariusxscourger](https://github.com/ariusxscourger) | Software Engineer & CEO @ [Arius TechWorks](http://ariustech.works/)
 
 </div>
