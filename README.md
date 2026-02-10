@@ -137,6 +137,18 @@ Professional law firm website with practice areas, attorney profiles, contact fo
 
 **Tech Stack:** React • TypeScript • Vite • EmailJS • React Router
 
+--- -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=ariusxscourger&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
+
+</div>
+
 ---
 
 ## 🎓 Certifications
