@@ -137,23 +137,6 @@ Professional law firm website with practice areas, attorney profiles, contact fo
 
 **Tech Stack:** React • TypeScript • Vite • EmailJS • React Router
 
---- -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/ariusxscourger">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ariusxscourger&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ariusxscourger&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</a>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=ariusxscourger&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</a>
-
-</div>
-
 ---
 
 ## 🎓 Certifications
